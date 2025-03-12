@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name        My userscript
+// @namespace   Violentmonkey Scripts
+// @match       https://google.com/*
+// @grant       none
+// @version     1.0
+// @author      Me
+// @description 3/11/2025, 10:02:45 PM
+// ==/UserScript==
